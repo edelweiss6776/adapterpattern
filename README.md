@@ -1,4 +1,3 @@
-# adapterPattern
 Plugging Devices into Power Outlets
 
 You are developing an application that helps users manage and control various electronic devices by plugging them into power outlets. Each device has different plug types, voltage, and amperage requirements. To ensure compatibility and safety, you need to create adapters for different devices to allow them to be plugged into standard power outlets.
@@ -23,5 +22,5 @@ RefrigeratorAdapter - An adapter for plugging a refrigerator into a standard pow
 
 SmartphoneAdapter - An adapter for plugging a smartphone charger into a standard power outlet. It adapts the SmartphoneCharger to the PowerOutlet interface, translating plugIn() to chargePhone().
 
-![AdapterPattern](https://github.com/AngelicaManliguez/adapterPattern/assets/142959759/6dd58b80-ffcf-4f52-82ad-d6f8684fba58)
-# adapterpattern
+
+![image](https://github.com/user-attachments/assets/e62e8be3-32c0-4edb-8036-e446a4bc5d51)
